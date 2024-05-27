@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|e:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\lab5net6\\lab5net6\\objects\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|solutionrelative:lab5net6\\objects\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\lab5net6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|solutionrelative:lab5net6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\lab5net6\\objects\\blackspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|solutionrelative:lab5net6\\objects\\blackspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\lab5net6\\objects\\baseobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|solutionrelative:lab5net6\\objects\\baseobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\lab5net6\\objects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|solutionrelative:lab5net6\\objects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\lab5net6\\objects\\marker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|solutionrelative:lab5net6\\objects\\marker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\lab5net6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B255C3E-7AC6-4A38-B07A-7DFEE85B40A3}|Lab5net6\\Lab5net6.csproj|solutionrelative:lab5net6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\Player.cs",
+              "RelativeDocumentMoniker": "Lab5net6\\Objects\\Player.cs",
+              "ToolTip": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\Player.cs",
+              "RelativeToolTip": "Lab5net6\\Objects\\Player.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:17:06.362Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Target.cs",
+              "DocumentMoniker": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\Target.cs",
+              "RelativeDocumentMoniker": "Lab5net6\\Objects\\Target.cs",
+              "ToolTip": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\Target.cs",
+              "RelativeToolTip": "Lab5net6\\Objects\\Target.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:17:06.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab5net6\\Form1.cs",
+              "ToolTip": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Form1.cs",
+              "RelativeToolTip": "Lab5net6\\Form1.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:17:05.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackSpace.cs",
+              "DocumentMoniker": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\BlackSpace.cs",
+              "RelativeDocumentMoniker": "Lab5net6\\Objects\\BlackSpace.cs",
+              "ToolTip": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\BlackSpace.cs",
+              "RelativeToolTip": "Lab5net6\\Objects\\BlackSpace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:17:06.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Marker.cs",
+              "DocumentMoniker": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\Marker.cs",
+              "RelativeDocumentMoniker": "Lab5net6\\Objects\\Marker.cs",
+              "ToolTip": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\Marker.cs",
+              "RelativeToolTip": "Lab5net6\\Objects\\Marker.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:17:06.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseObjects.cs",
+              "DocumentMoniker": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\BaseObjects.cs",
+              "RelativeDocumentMoniker": "Lab5net6\\Objects\\BaseObjects.cs",
+              "ToolTip": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Objects\\BaseObjects.cs",
+              "RelativeToolTip": "Lab5net6\\Objects\\BaseObjects.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwD4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:17:06.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab5net6\\Form1.cs",
+              "ToolTip": "E:\\2-\u0439 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\5-\u044F \u043B\u0430\u0431\u0430\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430\\Lab5net6\\Lab5net6\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Lab5net6\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T11:17:06.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

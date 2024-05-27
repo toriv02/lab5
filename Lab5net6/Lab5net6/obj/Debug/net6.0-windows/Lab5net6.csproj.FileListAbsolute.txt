@@ -1,0 +1,51 @@
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.MainForm.resources
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.AssemblyInfo.cs
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.exe
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.deps.json
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.runtimeconfig.json
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.dll
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.pdb
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.dll
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\refint\Lab5net6.dll
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.pdb
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.genruntimeconfig.cache
+C:\Users\stud\Desktop\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\ref\Lab5net6.dll
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.MainForm.resources
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.csproj.GenerateResource.cache
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.GeneratedMSBuildEditorConfig.editorconfig
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.AssemblyInfoInputs.cache
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.AssemblyInfo.cs
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.csproj.CoreCompileInputs.cache
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.dll
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\refint\Lab5net6.dll
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.pdb
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.exe
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.deps.json
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.runtimeconfig.json
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.dll
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.pdb
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.genruntimeconfig.cache
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\ref\Lab5net6.dll
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.exe
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.deps.json
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.runtimeconfig.json
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.dll
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\ref\Lab5net6.dll
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\bin\Debug\net6.0-windows\Lab5net6.pdb
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.csproj.AssemblyReference.cache
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.MainForm.resources
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.csproj.GenerateResource.cache
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.GeneratedMSBuildEditorConfig.editorconfig
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.AssemblyInfoInputs.cache
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.AssemblyInfo.cs
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.csproj.CoreCompileInputs.cache
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.dll
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\ref\Lab5net6.dll
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.pdb
+D:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.genruntimeconfig.cache
+E:\2-й курс\технологии программирования\5-я лабараторная работа\Lab5net6\Lab5net6\obj\Debug\net6.0-windows\Lab5net6.csproj.AssemblyReference.cache
